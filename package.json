@@ -1,0 +1,24 @@
+{
+  "name": "node-postgre",
+  "version": "1.0.0",
+  "description": "Sample applcation for postgre statefulset testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "postgresql"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "pg": "^8.6.0",
+    "pg-hstore": "^2.3.4",
+    "pg-promise": "^10.10.2",
+    "sequelize": "^6.6.4"
+  }
+}
